@@ -20,4 +20,6 @@ Console.WriteLine(product);
 
 Console.WriteLine("Go calc average!");
 Console.WriteLine($"Average = {(double)sum / 5}");
+Console.WriteLine("Go print smth!");
+Console.WriteLine("Go calc smth new!");
 
