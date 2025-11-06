@@ -10,4 +10,10 @@ for (int i = 1; i <= 5; i++)
 }
 Console.WriteLine("sum=" + sum);
 
-
+int product = 1;
+for (int i = 1; i <= 5; i++)
+{
+    Console.WriteLine($"Count: {i}");
+    product *= i;
+}
+Console.WriteLine(product);
