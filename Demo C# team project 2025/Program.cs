@@ -19,4 +19,5 @@ for (int i = 1; i <= 10; i++)
 Console.WriteLine(product);
 
 Console.WriteLine("Go calc average!");
-Console.WriteLine($"Average = {sum / 10.0}");
+Console.WriteLine($"Average = {(double)sum / 5}");
+
